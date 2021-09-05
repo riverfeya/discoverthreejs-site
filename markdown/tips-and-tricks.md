@@ -1,7 +1,7 @@
 ---
-title: "The Big List of three.js Tips and Tricks!"
+title: "Большой список советов и приемов от three.js!"
 date: 2018-01-01
-description: "Here lie hundreds of tips, tricks, and suggestions for best practices while building a high performance three.js application."
+description: "Здесь содержатся сотни советов, уловок и рекомендаций по созданию высокопроизводительного приложения three.js."
 weight: 9999
 chapter: 'B.2'
 available: true
@@ -11,14 +11,14 @@ type: "book"
 nextURL: "/book/"
 nextTitle: "Table of Contents"
 prevURL: "/book/appendix/threejs-versions/"
-prevTitle: "Dealing with Different three.js Versions"
+prevTitle: "Работа с различными версиями three.js"
 ---
 
-# The Big List of three.js Tips and Tricks!
+# Большой список советов и приемов от three.js!
 
-Hey everyone! While writing the book I've been gathering a big list of tips, tricks, caveats, and gotchas. This page contains everything that I've found so far.
+Привет всем! Во время написания книги я собрал большой список советов, уловок, предостережений и ошибок. Эта страница содержит все, что я нашел до сих пор.
 
-Not all the tips here have been experimentally verified, especially the performance tips. There are too many variables involved to blindly follow a list, so always make sure to test your app thoroughly and see what works for you. These are suggestions, not rules (mostly). That said, this page will have lots of useful tips for apps of any size.
+Не все советы здесь были экспериментально проверены, особенно советы по производительности. Вовлечено слишком много переменных, чтобы слепо следовать списку, поэтому всегда тщательно тестируйте свое приложение и смотрите, что работает для вас. Это предложения, а не правила (в основном). Тем не менее, на этой странице будет много полезных советов для приложений любого размера.
 
 If you have anything to add or notice any mistakes, [let me know](/contact/) and I'll update the page.
 
