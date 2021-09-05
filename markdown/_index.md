@@ -1,6 +1,6 @@
 ---
 title: "Discover three.js!"
-description: "Take your websites into the third dimension! Discover three.js is an exciting new book by one of the core three.js developers. Section 1 is a free tutorial series so jump right in and get started!"
+description: "Выведите свои веб-сайты в третье измерение! Discover three.js это новая увлекательная книга одного из основных разработчиков three.js. Раздел 1 - это серия бесплатных руководств, так что сразу приступайте к работе!"
 date: 2018-04-02
 weight: 100
 available: true
